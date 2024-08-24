@@ -2,32 +2,32 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "263717750825"
-global.ownername = "Precious Ayomide👑"
+global.ownernomer = "919888280858"
+global.ownername = "S Y 4 M"
 global.ytname = "YT: Prexzyvilla"
 global.socialm = "GitHub: Prexzybooster"
-global.location = "Nigeria, Osun, Osogbo"
+global.location = "India, Kerala, Calicut"
 
-global.ownernumber = '263717750825'  //creator number
-global.ownername = 'Precious Ayomide👑' //owner name
-global.botname = 'PREXZY ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.ownernumber = '919888280858'  //creator number
+global.ownername = 'S Y 4 M' //owner name
+global.botname = '_sks_bot_' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'PREXZY👑\n\nContact: +263717750825'
+global.author = '@_sks_bot_\n\nContact: @_sks_bot_'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "PREXZYVILLA."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029VaaUfPO8qIzztuf42D04'
+global.link = 'https://chat.whatsapp.com/DAD1FGg9dES0FpxtrUEheo'
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
-global.autoRecording = false //auto recording
+global.autoRecording = true //auto recording
 global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
